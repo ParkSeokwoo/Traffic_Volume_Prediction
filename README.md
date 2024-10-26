@@ -1,4 +1,5 @@
 # [2024 DATA·AI 분석경진대회] 달골짜기(月谷)를 넘어가보자 : 차량 혼잡도 예측 및 능동 관리 시스템 개발
+![image](https://github.com/user-attachments/assets/b79969bc-12c7-42a2-8d51-547832aa6a39)
 
 Task 제목
 ---
